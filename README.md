@@ -22,7 +22,7 @@ Adminpanel is generated with Laravel generator: [QuickAdminPanel.com](https://qu
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
 - That's it: launch the main URL. 
 - You can login to adminpanel with default credentials __admin@admin.com__ - __password__
-
+- To Run Cron  php artisan reminders:send
 
 ---
 
